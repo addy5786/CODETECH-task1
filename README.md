@@ -1,14 +1,23 @@
 *Name*: ADIL SHAIKH
-*Company*:CODETECH IT SOLUTIONS
+
+*Company*: CODETECH IT SOLUTIONS
+
 *ID*: CT08DJS
+
 *Domain*: Python Programming
+
 *Duration*:12th December to 12th January
+
 *Mentor*: Neela Santhosh Kumar
 
 
 # Overview Of The Project
 
 Project: INVENTORY MANAGMENT SYSTEM
+
+![WhatsApp Image 2024-12-29 at 3 11 56 PM](https://github.com/user-attachments/assets/c6e973b4-95b9-4b31-83c7-0dca30c24294)
+
+
 
 Objective: The primary goal of the Inventory Management System is to provide a user-friendly interface for managing inventory items, tracking stock levels       and generating reports. 
 The system should allow users to add, update, delete, and view inventory items efficiently.
