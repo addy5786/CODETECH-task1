@@ -1302,3 +1302,4 @@ def product_form(window):
     treeview.bind("<ButtonRelease-1>",lambda event:select_data(event,treeview,categroy_combobox,supplier_combobox,name_entry,price_entry,quantity_entry,status_combobox))
     treeview_data(treeview)
     return product_Frame
+
